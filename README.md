@@ -61,21 +61,6 @@ npm run dev
 
 ---
 
-## 📂 Project Structure  
-
-```
-finbridge/
- ├── app/                # Next.js app router pages and layouts
- │    ├── (auth)/        # Authentication pages (sign-in, sign-up)
- │    ├── (root)/        # Protected routes (dashboard, transfers, history)
- │    └── globals.css    # Global styles
- ├── components/         # Reusable UI components
- ├── lib/                # Utility functions and service integrations
- │    ├── actions/       # Appwrite, Plaid, and Dwolla actions
- │    └── utils.ts       # Helper utilities
- ├── types/              # TypeScript type definitions
- └── package.json
-```
 
 ---
 
