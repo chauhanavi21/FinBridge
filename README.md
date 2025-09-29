@@ -66,8 +66,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
-cd banking
+git clone https://github.com/chauhanavi21/FinBridge.git
+cd FinBridge
 ```
 
 **Installation**
@@ -105,7 +105,7 @@ PLAID_COUNTRY_CODES=
 #DWOLLA
 DWOLLA_KEY=
 DWOLLA_SECRET=
-DWOLLA_BASE_URL=https://api-sandbox.dwolla.com
+DWOLLA_BASE_URL=
 DWOLLA_ENV=sandbox
 
 ```
@@ -148,7 +148,7 @@ PLAID_COUNTRY_CODES=US,CA
 #DWOLLA
 DWOLLA_KEY=
 DWOLLA_SECRET=
-DWOLLA_BASE_URL=https://api-sandbox.dwolla.com
+DWOLLA_BASE_URL=
 DWOLLA_ENV=sandbox
 ```
 
